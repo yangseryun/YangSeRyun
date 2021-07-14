@@ -3,7 +3,6 @@
 * I am attending Gwangju Software Meister High School 🏫
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
 <!--
 **yangseryun/yangseryun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
