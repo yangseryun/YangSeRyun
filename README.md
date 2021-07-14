@@ -1,6 +1,6 @@
 ### Hi there 
-> my name is SeRyun 👋
-> I am attending Gwangju Software Meister High School 🏫
+* my name is SeRyun 👋
+* I am attending Gwangju Software Meister High School 🏫
 <!--
 **yangseryun/yangseryun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
