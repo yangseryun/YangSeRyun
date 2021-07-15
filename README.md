@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yangseryun&show_icons=true)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangseryun&count_bg=%23FF9BC7&title_bg=%23878787&icon=&icon_color=%23CBCBCB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
