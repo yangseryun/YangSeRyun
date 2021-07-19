@@ -2,7 +2,7 @@
 
 
 ### Hi
-* my name is SeRyun 👋
+* My name is SeRyun 👋
 * I am attending Gwangju Software Meister High School 🏫
 
 <!--
