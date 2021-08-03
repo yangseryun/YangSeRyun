@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Yang%20SeRyun&fontSize=90)
 
-
 ### Hi
 * My name is SeRyun 👋
 * I am attending Gwangju Software Meister High School 🏫
