@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=300&section=header&text=Yang%20SeRyun&fontSize=90)
 
-
 ### Hi
 * My name is SeRyun 👋
 * I am attending Gwangju Software Meister High School 🏫
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yangseryun&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangseryun&layout=compact)](https://github.com/yangseryun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangseryun)](https://github.com/yangseryun/github-readme-stats)
 
 
 
